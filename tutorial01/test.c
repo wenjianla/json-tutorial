@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "leptjson.h"
-// TEST
+/* TEST */
 static int main_ret = 0;
 static int test_count = 0;
 static int test_pass = 0;
